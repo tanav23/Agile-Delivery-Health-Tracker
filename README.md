@@ -210,3 +210,6 @@ SCRUM-12 is blocked pending requirements review. This may affect SCRUM-13 and SC
 ### Decision Principle
 
 Communicate the known blocker, distinguish potential impact from confirmed delay, assign concrete next actions, and establish a checkpoint for reassessment.
+
+### Screenshots
+![Screenshots](SCREENSHOTS.md)
