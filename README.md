@@ -212,22 +212,4 @@ SCRUM-12 is blocked pending requirements review. This may affect SCRUM-13 and SC
 Communicate the known blocker, distinguish potential impact from confirmed delay, assign concrete next actions, and establish a checkpoint for reassessment.
 
 ## Screenshots
-
-### Jira Backlog
-Shows the five stories, their parent epics, priorities, and current statuses.
-
-![Jira Backlog](backlog_ss.png)
-
-### Confluence Live Jira Issues
-Shows the workflow documentation and Jira Issues table linked to the five stories.
-
-![Confluence Jira Issues](Confluence_JiraList.png)
-
-### Excel Program Health
-Shows the delivery tracker and program-health metrics.
-
-![Excel Program Health]("Health_Sheet_ss.png")
-
-
-## Screenshots
-("SCREENSHOTS.md")
+![Screenshots]("SCREENSHOTS.md")
