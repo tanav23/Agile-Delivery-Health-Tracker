@@ -216,12 +216,12 @@ Communicate the known blocker, distinguish potential impact from confirmed delay
 ### Jira Backlog
 Shows the five stories, their parent epics, priorities, and current statuses.
 
-![Jira Backlog](docs/screenshots/jira-backlog.png)
+![Jira Backlog](backlog_ss.png)
 
 ### Confluence Live Jira Issues
 Shows the workflow documentation and Jira Issues table linked to the five stories.
 
-![Confluence Jira Issues](docs/screenshots/confluence-live-issues.png)
+![Confluence Jira Issues](Confluence_JiraList.png)
 
 ### Excel Program Health
 Shows the delivery tracker and program-health metrics.
